@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: axelsilverdew/simple-api:latest
+          image: arijit2111/simple-api:latest
           ports:
             - containerPort: 3000
           env:
